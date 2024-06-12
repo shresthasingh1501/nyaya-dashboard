@@ -1,0 +1,4 @@
+project_name,project_status,project_description,ai_review,ai_reason,latitude,longitude,image_path
+Complete ,100,Completed building ,"0 
+","The image shows an empty plot of land with trees and a road, indicating no construction.  The reported status of 100% complete is incorrect. Therefore, the validation system returns 0, signifying the statement is not verified. 
+",28.7041,77.1025,KL5560003_1638439930_p1.jpeg
